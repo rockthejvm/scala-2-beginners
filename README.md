@@ -1,9 +1,9 @@
 
-## The official repository for the Scala beginners course on Udemy
+## The official repository for the Scala beginners course
 
 Powered by [Rock the JVM!](rockthejvm.com)
 
-This repository contains the code we wrote during  [Rock the JVM's Scala beginners course](https://www.udemy.com/rock-the-jvm-scala-for-beginners) on Udemy. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
+This repository contains the code we wrote during  [Rock the JVM's Scala beginners course](https://rockthejvm.com/course/scala). Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
 
 How to install:
 - either clone the repo or download as zip
